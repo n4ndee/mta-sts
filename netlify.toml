@@ -1,3 +1,7 @@
 [[redirects]]
   from = "https://mta-sts.nandi.tech/*"
   to = "https://nandi.tech"
+
+[[redirects]]
+  from = "/*"
+  to = "/.well-known/mta-sts.txt"
