@@ -2,6 +2,6 @@ version: STSv1
 mode: enforce
 mx: smtp.google.com
 mx: mta-gw.infomaniak.ch
-mx: fwd1.porkbun.co
+mx: fwd1.porkbun.com
 mx: fwd2.porkbun.com
 max_age: 2592000
