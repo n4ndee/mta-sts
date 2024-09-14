@@ -1,7 +1,8 @@
 version: STSv1
 mode: enforce
 mx: smtp.google.com
+mx: route1.mx.cloudflare.net
+mx: route2.mx.cloudflare.net
+mx: route3.mx.cloudflare.net
 mx: mta-gw.infomaniak.ch
-mx: fwd1.porkbun.com
-mx: fwd2.porkbun.com
 max_age: 2592000
